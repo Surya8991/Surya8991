@@ -1,4 +1,4 @@
-### Hi everyone, I am self-taught Full stack Developer learning through online resources. I would love to connect with people and have a chat. The majority of my learning comes from online resources. I started a blog[https://blog.surya-l.com] so that I can document my journey as a self-taught developer, its hardships, tips, and tricks.
+### Hi everyone, My name is Surya L . I am self-taught Full stack Developer learning through online resources. I would love to connect with people and have a chat. The majority of my learning comes from online resources. I started a blog[https://blog.surya-l.com] so that I can document my journey as a self-taught developer, its hardships, tips, and tricks.
 
 <!--
 **Surya8991/Surya8991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
