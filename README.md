@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Web development
 - 🤔 I’m looking for help with ...DSA in JS
 - 💬 Ask me about ...Web development& self development.
-- 📫 How to reach me: ...Lindedln[https://www.linkedin.com/in/surya-l], Twitter[https://twitter.com/SURYA_L1998], Email[mailto:Suryaraj8147@gmail.com]
+- 📫 How to reach me: ...Lindedln[https://www.linkedin.com/in/surya-l], Twitter[https://twitter.com/SURYA_L1998], Email[Suryaraj8147@gmail.com]
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I never give up and I love Food 😊
