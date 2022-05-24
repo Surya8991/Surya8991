@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Surya8991&label=PROFILE+VIEWS)From May-19-2022
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya8991&theme=dark&show_icons=true)
