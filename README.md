@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Surya8991"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Blog" style="height: 50px;width: 50px;"></a>
 <a href="mailto:contact@surya-l.com">Contact Me</a>
 - 🔭 I’m currently working on ...JS Projects
-- 😎 My personal Webiste...Portfolio[https://surya-l.com]
+- 😎 My personal Webiste.. <a href="https://surya-l.com">.Portfolio</a>
 - 🌱 I’m currently learning ...DSA in JS & blog it.<a href="https://blog.surya-l.com/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" alt="Blog" style="height: 25px;width: 25px;"></a>
 - 👯 I’m looking to collaborate on ...Web development
 - 🤔 I’m looking for help with ...DSA in JS
