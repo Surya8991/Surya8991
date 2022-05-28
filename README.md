@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Surya8991&label=PROFILE+VIEWS)From May-19-2022
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya8991&theme=midnight-purple&show_icons=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Surya8991&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
