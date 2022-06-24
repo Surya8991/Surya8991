@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I never give up and I love Food 😊
 
-![](https://komarev.com/ghpvc/?username=Surya8991&label=PROFILE+VIEWS)From May-19-2022
+![](https://komarev.com/ghpvc/?username=Surya8991&label=PROFILE+VIEWS)    From May-19-2022
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya8991&show_icons=true&theme=radical)
 
