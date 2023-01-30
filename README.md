@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-   📫 How to reach me:   <a href="https://www.linkedin.com/in/surya-l/"><img src="https://cdn.pixabay.com/photo/2017/10/04/11/58/linkedin-2815969__340.jpg" alt="linkedin" style="height: 50px;width: 50px;"></a>
+   📫 How to reach me:   <a href="https://www.linkedin.com/in/surya-l/">Linkedin</a>
 <a href="https://www.showwcase.com/suryal8991"><img src="https://www.saashub.com/images/app/service_logos/172/hqkavox0yo60/large.png?1616719213" alt="showwcase" style="height: 50px;width: 50px;"></a>
 <a href="https://twitter.com/SURYA_L1998"><img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" alt="twitter" style="height: 50px;width: 50px;"></a>
 <a href="https://blog.surya-l.com/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" alt="Blog" style="height: 50px;width: 50px;"></a>
